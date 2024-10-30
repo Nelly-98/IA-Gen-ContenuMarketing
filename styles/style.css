@@ -1,0 +1,14 @@
+/* styles.css */
+.main {
+    background-color: #f5f5f500; /* Couleur de fond de l'application */
+}
+.stButton > button {
+    background-color: #4CAF50; /* Couleur des boutons */
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.stSidebar {
+    background-color: #3316ea00; /* Couleur de fond de la barre latérale */
+    color: white;
+}
